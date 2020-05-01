@@ -1,0 +1,9 @@
+name: terminal_tools
+description: A sample package that pins a dep.
+
+environment:
+  sdk: '>=2.7.0 <3.0.0'
+
+dependencies:
+  path: 1.6.2
+  meta: 1.1.6
